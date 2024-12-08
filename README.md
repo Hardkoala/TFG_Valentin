@@ -31,17 +31,8 @@ El proyecto se divide en las siguientes secciones:
 5. **Evaluación Final**
    - Medición de los resultados obtenidos tras la intervención y comparación con los requisitos iniciales.
 
-## Tecnologías y Herramientas Utilizadas
 
-- **Software de Simulación Acústica**: [Nombre del software utilizado, si aplica]
-- **Herramientas de Medición**: Medidores de presión sonora, medidores de tiempo de reverberación.
-- **Sistemas Audiovisuales**: [Especificaciones o marcas de equipos utilizados]
 
-## Instalación y Requisitos
-
-Este repositorio contiene la documentación completa del proyecto, pero no incluye código o scripts que puedan requerir instalación. Sin embargo, si alguna parte del trabajo requiere ejecutar simulaciones o análisis en un entorno específico, asegúrate de tener las siguientes herramientas instaladas:
-
-- [Incluir herramientas/software necesarios si corresponde]
 
 ## Licencia
 
