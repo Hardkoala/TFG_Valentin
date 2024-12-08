@@ -16,20 +16,15 @@ Las actividades realizadas en el TFG incluyen:
 
 El proyecto se divide en las siguientes secciones:
 
-1. **Introducción**
-   - Contexto del proyecto y la importancia del acondicionamiento acústico en espacios multiusos.
+1. **Introducción**: Contexto del proyecto y la importancia del acondicionamiento acústico en espacios multiusos.
    
-2. **Evaluación Inicial**
-   - Análisis de la situación acústica previa a la intervención.
+2. **Evaluación Inicial**: Análisis de la situación acústica previa a la intervención.
 
-3. **Diseño de Soluciones**
-   - Propuestas de mejora acústica y diseño del sistema audiovisual.
+3. **Diseño de Soluciones**: Propuestas de mejora acústica y diseño del sistema audiovisual.
 
-4. **Instalación**
-   - Proceso de ejecución de las propuestas de acondicionamiento y montaje de los equipos audiovisuales.
+4. **Instalación**: Proceso de ejecución de las propuestas de acondicionamiento y montaje de los equipos audiovisuales.
 
-5. **Evaluación Final**
-   - Medición de los resultados obtenidos tras la intervención y comparación con los requisitos iniciales.
+5. **Evaluación Final**: Medición de los resultados obtenidos tras la intervención y comparación con los requisitos iniciales.
 
 
 
